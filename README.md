@@ -92,9 +92,6 @@ Rechnung für Tisch 1:
 Gesamt: 9.50 €
 ```
 
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der Datei [LICENSE](LICENSE).
 
 ## Autor
 
